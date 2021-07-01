@@ -1,2 +1,2 @@
 # portfolio
-Please click on the 'index.html' webpage in this repository 'portfolio'
+Please click here: https://cjvanaarde.github.io/portfolio/
